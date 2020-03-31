@@ -1,0 +1,39 @@
+<mjml>
+  <mj-head>
+    <mj-title>Glanbia Business Services - Find a Better Way</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" padding-top="0" padding-bottom="0" padding-left="12px" padding-right="12px"></mj-all>
+    </mj-attributes>
+    <mj-preview>Find A Better Way is an initiative that encourages GBS employees to find areas that need improvement and come up with a solution to Find A Better Way.</mj-preview>
+    <mj-style inline="inline">
+      .gbs-color-orange { color: #f0ab00;} .gbs-color-orange a { color: #f0ab00;}
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#002C77">
+    <mj-section background-color="#002c77">
+      <mj-column vertical-align="middle">
+
+        <mj-text font-size="9.26px" align="center" color="white" padding-top="12px" padding-bottom="12px" padding-bottom="12px">If you’re having problems accessing the content of this E-Mail, please allow Outlook to Download the Images on this E-mail.</mj-text>
+
+        <mj-image alt="GBS Logo" src="https://github.com/riyadirenno/gbs-images/blob/master/gbs-fabw/gbs-fabw-logo.png?raw=true" align="center" height="75px" width="125px" padding-bottom="24px"></mj-image>
+
+        <mj-image alt="GBS Find a Better Way Header" src="https://github.com/riyadirenno/gbs-images/blob/master/gbs-fabw/gbs-fabw-header.png?raw=true" align="center" padding-bottom="24px"></mj-image>
+
+        <mj-text font-size="16px" line-height="23.04px" color="white" font-weight="300" align="left"><strong><span class="gbs-color-orange">Find A Better Way</span></strong> is an initiative that encourages GBS employees to find areas that need improvement and come up with a solution to <strong><span class="gbs-color-orange">Find A Better Way</span></strong>.
+        </mj-text>
+
+        <mj-text font-size="13.33px" line-height="19.20px" color="white" font-weight="300" align="left" padding-top="24px">You or your team can enter by emailing <strong><span class="gbs-color-orange">Vivienne Dunne - <a href="mailto:vdunne@glanbia.ie">vdunne@glanbia.ie</a></span></strong> and if your idea is selected, you will work with the relevant teams in GBS
+          to make your solution a reality
+          <br></br>
+          <strong><span class="gbs-color-orange"><a href="mailto:vdunne@glanbia.ie">Click here</a></span> to participate in this initiative.</strong>
+        </mj-text>
+
+        <mj-image alt="GBS Find a Better Way QR Code" href="mailto:vdunne@glanbia.ie" src="https://github.com/riyadirenno/gbs-images/blob/master/gbs-fabw/gbs-fabw-footer.png?raw=true" align="center" padding-top="36px" padding-bottom="36px"></mj-image>
+
+        <mj-text font-size="9.26px" align="center" color="white" padding-bottom="12px">Mobile Users - Click <span class="gbs-color-orange"><a href="mailto:vdunne@glanbia.ie">here</a></span> to participate in this initative.</mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
